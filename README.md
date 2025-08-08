@@ -1,6 +1,6 @@
 because the competition still going on
 Therefore, please check it out the link, which contains the full code on Kaggle
-https://www.kaggle.com/code/peggybyby/finetune-0807
+[https://www.kaggle.com/code/peggybyby/finetune-0807](https://www.kaggle.com/code/peggybyby/notebook9cb8d0bdf9/edit)
 
 
 
